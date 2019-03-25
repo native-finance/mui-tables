@@ -24,5 +24,3 @@ jspm_packages/
 .npm
 .idea/
 .env
-dist/
-
